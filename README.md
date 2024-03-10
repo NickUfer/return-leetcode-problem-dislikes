@@ -1,2 +1,12 @@
-# return-leetcode-problem-dislikes
-A Tampermonkey script that restores the dislike button count on Leetcode for the dynamic layout
+# Return Leetcode Problem Dislikes
+A Tampermonkey / Violentmonkey userscript that restores the dislike button count on Leetcode for the dynamic layout
+
+## Prerequisites
+
+You need to have either the [tampermonkey](https://www.tampermonkey.net/), [violentmonkey](https://violentmonkey.github.io/) or other compatible userscript addon installed.
+
+## Installation
+
+Click the link and your userscript addon should automatically open and ask you to approve installation of the newest version:
+
+[return-leetcode-problem-dislikes.user.js](https://raw.githubusercontent.com/NickUfer/return-leetcode-problem-dislikes/main/return-leetcode-problem-dislikes.user.js)
