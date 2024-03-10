@@ -3,6 +3,8 @@ A Tampermonkey / Violentmonkey userscript that restores the dislike button count
 
 If dislikes >= 1000 they get abbreviated (e.g. 1500 becomes 1.5K).
 
+![](./docs/assets/like-dislike.png)
+
 ## Prerequisites
 
 You need to have either the [tampermonkey](https://www.tampermonkey.net/), [violentmonkey](https://violentmonkey.github.io/) or other compatible userscript addon installed.
