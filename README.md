@@ -1,5 +1,7 @@
 # Return Leetcode Problem Dislikes
-A Tampermonkey / Violentmonkey userscript that restores the dislike button count on Leetcode for the dynamic layout
+A Tampermonkey / Violentmonkey userscript that restores the dislike button count on Leetcode for the dynamic layout.
+
+If dislikes >= 1000 they get abbreviated (e.g. 1500 becomes 1.5K).
 
 ## Prerequisites
 
